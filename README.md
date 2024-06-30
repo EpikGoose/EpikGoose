@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @epic_goose
+- 👀 I’m interested in Coding, Murder Drones, and FNAF.
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on a FNAF inspired game.
+- 📫 How to reach me maximdon2010@gmail.com
+- 😄 Pronouns: U/S/S/R
+- ⚡ Fun fact: I want to learn how to create a discord bot.
